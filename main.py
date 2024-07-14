@@ -25,7 +25,8 @@ def formating(title,artist,file):
     ntitle = remove_symbol(title)
     nartist = remove_symbol(artist)
 
-    nfile = nartist + " - " + ntitle + " - " + file
+    formats = file.split(".")
+    nfile = nartist + " - " + ntitle + "." + formats[1]
     return nfile
 
 for i in range(len(files)):
