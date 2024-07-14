@@ -6,7 +6,7 @@ eyed3
 
 `pip install eyeD3`
 
-###### Change your ipod drive letter before running the script
+### Change your ipod drive letter before running the script
 
 at line 5
 
