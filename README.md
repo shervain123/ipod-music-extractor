@@ -15,3 +15,5 @@ at line 5
 This code works by going into the ipod folder and basically copy the files and rename it fron the id3 tag
 
 tested on windows only 
+
+i cannot confirm it will work perfectly in my testing it works well enough
