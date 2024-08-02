@@ -1,6 +1,8 @@
 # ipod-music-extractor
 it's not the best but it get the job done
 
+I have not check if it does work with older ipod (tested with nano 7 gen only) but it should work if your ipod have a ipod_control folder
+
 ### library required
 eyed3
 
